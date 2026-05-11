@@ -43,5 +43,5 @@ A C++ console-based application that allows users to visualize all possible next
 
 ## Contributors
 
-* Talha Kayani (22I-1914)
-* Mahad Rafiq (22I-2016)
+* Mujahid Abbas (22i-1969)
+* Talha Kayani (22i-1914)
