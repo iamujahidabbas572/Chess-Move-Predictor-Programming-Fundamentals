@@ -1,5 +1,4 @@
-//TALHA KAYANI 22I-1914
-//MAHAD RAFIQ 22I-2016
+
 #include<iostream>
 #include<Windows.h>
 #include<cstdlib>
